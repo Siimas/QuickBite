@@ -18,10 +18,12 @@
 
 ### Tech Stack
 
-- Docker
-- Kubernetes
 - Spring
   - Spring Boot
   - Spring Gateway
   - Spring Security
   - **. . .**
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
