@@ -10,9 +10,11 @@
 
 ## Backend
 
-[Api Gateway & Auth](https://github.com/Siimas/QuickBite-Api-Gateway)
+[Api Gateway](https://github.com/Siimas/QuickBite-Api-Gateway)
 
-[Business Logic](https://github.com/Siimas/QuickBite-business-logic)
+[Auth Service](https://github.com/Siimas/QuickBite-auth-service)
+
+[Business Service](https://github.com/Siimas/QuickBite-business-logic)
 
 ### Tech Stack
 
